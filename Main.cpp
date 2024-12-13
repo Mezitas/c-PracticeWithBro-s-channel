@@ -5,8 +5,7 @@
 #include "CalculadoraSimple.h"
 
 int main() {
-	double hypotenuse = hipotenuseCalculator();
-	std::cout <<"La hipotenusa es: " << hypotenuse << std::endl;
+	repeat();
 
 	return 0;
  }
