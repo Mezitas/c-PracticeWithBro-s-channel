@@ -3,9 +3,10 @@
 //_h Documents
 #include "HipotenusaCalculator.h"
 #include "CalculadoraSimple.h"
+#include "TemperatureCalculator.h"
 
 int main() {
-	repeat();
+	MenuRepeticion();
 
 	return 0;
  }
